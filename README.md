@@ -1,9 +1,9 @@
-#Ghost Blog Rescheduler
+# Ghost Blog Rescheduler
 
-##It's Hacky
-##It's Crappy
-#BUT
-##It's Working
+## It's Hacky
+## It's Crappy
+# BUT
+## It's Working
 
 
 This is a minimal Electron application based on the [electron-quick-start](https://github.com/electron/electron-quick-start).
