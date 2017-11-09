@@ -27,6 +27,6 @@ npm start
 Once you run the app; you'll need to follow the steps outlined in the [Ghost Docs](https://api.ghost.org/docs/user-authentication) to get a bearer token.
 With that; you'll fill in the domain; the full domain for any self hosted solutions; and fill in the text box with the Bearer Token.
 
-This needs to be the full value; "Bearer BASE64-FTW!"
+This needs to be the full value; 'Bearer BASE64-FTW!'
 
 Hit refresh and in a moment your posts should be pulled down.
