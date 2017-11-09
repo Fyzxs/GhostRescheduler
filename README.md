@@ -13,6 +13,16 @@ I normally have almost 2 dozen posts queued for weekly posting. Trying to insert
 
 ## To Use
 For most of the setup; follow what the Electron Quick Start guide says to do. This isn't packaged as an app - I don't know NEAR enough right now to make this good.
+```bash
+# Clone this repository
+git clone https://github.com/Fyzxs/GhostRescheduler.git
+# Go into the repository
+cd GhostRescheduler
+# Install dependencies
+npm install
+# Run the app
+npm start
+```
 
 Once you run the app; you'll need to follow the steps outlined in the [Ghost Docs](https://api.ghost.org/docs/user-authentication) to get a bearer token.
 With that; you'll fill in the domain; the full domain for any self hosted solutions; and fill in the text box with the Bearer Token.
